@@ -13,7 +13,7 @@ if [ ! -d "$INSTALL_DIR" ]; then
 fi
 
 mkdir -p $INSTALL_DIR/ai-assistant/
-cp ai-assistant.png index.live.php install.json $INSTALL_DIR/ai-assistant/
+cp ai-assistant.svg index.live.php install.json $INSTALL_DIR/ai-assistant/
 /usr/local/cpanel/scripts/install_plugin $INSTALL_DIR/ai-assistant/
 
 echo "DONE"

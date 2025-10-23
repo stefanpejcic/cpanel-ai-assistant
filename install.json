@@ -6,7 +6,7 @@
         "group_id": "domains",
         "id": "ai-assistant",
         "uri": "ai-assistant/index.live.php",
-        "icon": "ai-assistant.png",
+        "icon": "ai-assistant-new.png",
         "featuremanager": false
     }
 ]

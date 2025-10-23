@@ -4,8 +4,8 @@
         "order": "999",
         "type": "link",
         "group_id": "domains",
-        "id": "ai-assistant",
-        "uri": "ai-assistant/index.live.php",
+        "id": "ai-assistant-new",
+        "uri": "ai-assistant-new/index.live.php",
         "icon": "ai-assistant-new.png",
         "featuremanager": false
     }

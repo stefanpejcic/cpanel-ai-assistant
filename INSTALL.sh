@@ -12,8 +12,8 @@ if [ ! -d "$INSTALL_DIR" ]; then
     exit 1
 fi
 
-mkdir -p $INSTALL_DIR/ai-assistant-new/
-cp ai-assistant-new.png index.live.php install.json $INSTALL_DIR/ai-assistant-new/
+mkdir -p $INSTALL_DIR/ai-assistant/
+cp ai-assistant-new.png index.live.php install.json $INSTALL_DIR/ai-assistant/
 /usr/local/cpanel/scripts/install_plugin $INSTALL_DIR/ai-assistant/
 
 echo "DONE"

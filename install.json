@@ -5,7 +5,7 @@
         "type": "link",
         "group_id": "domains",
         "id": "ai-assistant-new",
-        "uri": "ai-assistant-new/index.live.php",
+        "uri": "ai-assistant/index.live.php",
         "icon": "ai-assistant-new.png",
         "featuremanager": false
     }
